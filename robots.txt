@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mriuc.github.io/yga/sitemap.yga.gz
